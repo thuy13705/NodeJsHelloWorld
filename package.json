@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_helloworld",
+  "version": "1.0.0",
+  "description": "A simple server for deployment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vominhtrieu/NodeJsHelloWorld.git"
+  },
+  "author": "Vo Minh Trieu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vominhtrieu/NodeJsHelloWorld/issues"
+  },
+  "homepage": "https://github.com/vominhtrieu/NodeJsHelloWorld#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
